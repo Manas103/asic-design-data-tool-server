@@ -1,0 +1,43 @@
+# Coverage report for gpio_ctrl
+FCOV gpio_ctrl_cg_0.bin_0 HITS 0 GOAL 100
+FCOV gpio_ctrl_cg_0.bin_1 HITS 83 GOAL 100
+FCOV gpio_ctrl_cg_1.bin_0 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_1.bin_1 HITS 75 GOAL 100
+FCOV gpio_ctrl_cg_2.bin_0 HITS 0 GOAL 100
+FCOV gpio_ctrl_cg_2.bin_1 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_2.bin_2 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_3.bin_0 HITS 0 GOAL 100
+FCOV gpio_ctrl_cg_3.bin_1 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_4.bin_0 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_4.bin_1 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_5.bin_0 HITS 54 GOAL 100
+FCOV gpio_ctrl_cg_5.bin_1 HITS 0 GOAL 100
+FCOV gpio_ctrl_cg_5.bin_2 HITS 0 GOAL 100
+FCOV gpio_ctrl_cg_5.bin_3 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_6.bin_0 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_6.bin_1 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_6.bin_2 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_6.bin_3 HITS 100 GOAL 100
+FCOV gpio_ctrl_cg_6.bin_4 HITS 100 GOAL 100
+CCOV rtl/gpio_ctrl_top.sv:57 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:381 HITS 124
+CCOV rtl/gpio_ctrl_regs.sv:31 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:82 HITS 0
+CCOV rtl/gpio_ctrl_regs.sv:288 HITS 0
+CCOV rtl/gpio_ctrl_regs.sv:218 HITS 0
+CCOV rtl/gpio_ctrl_datapath.sv:366 HITS 200
+CCOV rtl/gpio_ctrl_datapath.sv:393 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:292 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:162 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:54 HITS 299
+CCOV rtl/gpio_ctrl_regs.sv:271 HITS 0
+CCOV rtl/gpio_ctrl_regs.sv:143 HITS 0
+CCOV rtl/gpio_ctrl_datapath.sv:262 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:253 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:156 HITS 0
+CCOV rtl/gpio_ctrl_fsm.sv:315 HITS 0
+CCOV rtl/gpio_ctrl_datapath.sv:335 HITS 139
+CCOV rtl/gpio_ctrl_top.sv:231 HITS 135
+CCOV rtl/gpio_ctrl_datapath.sv:265 HITS 0
+CCOV rtl/gpio_ctrl_regs.sv:152 HITS 0
+CCOV rtl/gpio_ctrl_top.sv:400 HITS 0

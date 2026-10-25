@@ -1,0 +1,26 @@
+# Lint findings for gpio_ctrl
+INFO gpio_ctrl_lint_000 UNUSED_SIGNAL rtl/gpio_ctrl_top.sv:164 UNUSED_SIGNAL at rtl/gpio_ctrl_top.sv:164 WAIVED=false positive, confirmed by design review
+WARNING gpio_ctrl_lint_001 LATCH_INFERRED rtl/gpio_ctrl_top.sv:321 LATCH_INFERRED at rtl/gpio_ctrl_top.sv:321 WAIVED=false positive, confirmed by design review
+ERROR gpio_ctrl_lint_002 UNUSED_SIGNAL rtl/gpio_ctrl_datapath.sv:336 UNUSED_SIGNAL at rtl/gpio_ctrl_datapath.sv:336
+WARNING gpio_ctrl_lint_003 WIDTH_MISMATCH rtl/gpio_ctrl_fsm.sv:42 WIDTH_MISMATCH at rtl/gpio_ctrl_fsm.sv:42
+INFO gpio_ctrl_lint_004 MISSING_DEFAULT_CASE rtl/gpio_ctrl_top.sv:391 MISSING_DEFAULT_CASE at rtl/gpio_ctrl_top.sv:391
+ERROR gpio_ctrl_lint_005 MULTI_DRIVEN_NET rtl/gpio_ctrl_regs.sv:164 MULTI_DRIVEN_NET at rtl/gpio_ctrl_regs.sv:164
+WARNING gpio_ctrl_lint_006 MISSING_DEFAULT_CASE rtl/gpio_ctrl_fsm.sv:383 MISSING_DEFAULT_CASE at rtl/gpio_ctrl_fsm.sv:383
+ERROR gpio_ctrl_lint_007 LATCH_INFERRED rtl/gpio_ctrl_fsm.sv:399 LATCH_INFERRED at rtl/gpio_ctrl_fsm.sv:399 WAIVED=false positive, confirmed by design review
+WARNING gpio_ctrl_lint_008 UNUSED_SIGNAL rtl/gpio_ctrl_datapath.sv:208 UNUSED_SIGNAL at rtl/gpio_ctrl_datapath.sv:208
+WARNING gpio_ctrl_lint_009 MULTI_DRIVEN_NET rtl/gpio_ctrl_regs.sv:174 MULTI_DRIVEN_NET at rtl/gpio_ctrl_regs.sv:174
+WARNING gpio_ctrl_lint_010 MULTI_DRIVEN_NET rtl/gpio_ctrl_datapath.sv:352 MULTI_DRIVEN_NET at rtl/gpio_ctrl_datapath.sv:352
+INFO gpio_ctrl_lint_011 MULTI_DRIVEN_NET rtl/gpio_ctrl_regs.sv:17 MULTI_DRIVEN_NET at rtl/gpio_ctrl_regs.sv:17
+WARNING gpio_ctrl_lint_012 LATCH_INFERRED rtl/gpio_ctrl_regs.sv:109 LATCH_INFERRED at rtl/gpio_ctrl_regs.sv:109 WAIVED=false positive, confirmed by design review
+WARNING gpio_ctrl_lint_013 COMBO_LOOP_RISK rtl/gpio_ctrl_top.sv:13 COMBO_LOOP_RISK at rtl/gpio_ctrl_top.sv:13
+WARNING gpio_ctrl_lint_014 WIDTH_MISMATCH rtl/gpio_ctrl_top.sv:220 WIDTH_MISMATCH at rtl/gpio_ctrl_top.sv:220 WAIVED=false positive, confirmed by design review
+INFO gpio_ctrl_lint_015 UNUSED_SIGNAL rtl/gpio_ctrl_fsm.sv:134 UNUSED_SIGNAL at rtl/gpio_ctrl_fsm.sv:134
+INFO gpio_ctrl_lint_016 WIDTH_MISMATCH rtl/gpio_ctrl_datapath.sv:373 WIDTH_MISMATCH at rtl/gpio_ctrl_datapath.sv:373
+WARNING gpio_ctrl_lint_017 UNUSED_SIGNAL rtl/gpio_ctrl_regs.sv:104 UNUSED_SIGNAL at rtl/gpio_ctrl_regs.sv:104
+WARNING gpio_ctrl_lint_018 MISSING_DEFAULT_CASE rtl/gpio_ctrl_regs.sv:322 MISSING_DEFAULT_CASE at rtl/gpio_ctrl_regs.sv:322 WAIVED=false positive, confirmed by design review
+WARNING gpio_ctrl_lint_019 UNUSED_SIGNAL rtl/gpio_ctrl_fsm.sv:118 UNUSED_SIGNAL at rtl/gpio_ctrl_fsm.sv:118 WAIVED=false positive, confirmed by design review
+INFO gpio_ctrl_lint_020 LATCH_INFERRED rtl/gpio_ctrl_datapath.sv:192 LATCH_INFERRED at rtl/gpio_ctrl_datapath.sv:192
+WARNING gpio_ctrl_lint_021 COMBO_LOOP_RISK rtl/gpio_ctrl_top.sv:42 COMBO_LOOP_RISK at rtl/gpio_ctrl_top.sv:42
+WARNING gpio_ctrl_lint_022 UNUSED_SIGNAL rtl/gpio_ctrl_top.sv:367 UNUSED_SIGNAL at rtl/gpio_ctrl_top.sv:367
+ERROR gpio_ctrl_lint_023 MISSING_DEFAULT_CASE rtl/gpio_ctrl_regs.sv:194 MISSING_DEFAULT_CASE at rtl/gpio_ctrl_regs.sv:194
+WARNING gpio_ctrl_lint_024 UNUSED_SIGNAL rtl/gpio_ctrl_fsm.sv:343 UNUSED_SIGNAL at rtl/gpio_ctrl_fsm.sv:343

@@ -1,0 +1,29 @@
+# Lint findings for uart_core
+WARNING uart_core_lint_000 UNUSED_SIGNAL rtl/uart_core_top.sv:162 UNUSED_SIGNAL at rtl/uart_core_top.sv:162
+ERROR uart_core_lint_001 UNUSED_SIGNAL rtl/uart_core_top.sv:365 UNUSED_SIGNAL at rtl/uart_core_top.sv:365
+ERROR uart_core_lint_002 WIDTH_MISMATCH rtl/uart_core_fsm.sv:29 WIDTH_MISMATCH at rtl/uart_core_fsm.sv:29
+WARNING uart_core_lint_003 MISSING_DEFAULT_CASE rtl/uart_core_datapath.sv:311 MISSING_DEFAULT_CASE at rtl/uart_core_datapath.sv:311
+WARNING uart_core_lint_004 COMBO_LOOP_RISK rtl/uart_core_fsm.sv:216 COMBO_LOOP_RISK at rtl/uart_core_fsm.sv:216
+WARNING uart_core_lint_005 LATCH_INFERRED rtl/uart_core_datapath.sv:283 LATCH_INFERRED at rtl/uart_core_datapath.sv:283
+ERROR uart_core_lint_006 LATCH_INFERRED rtl/uart_core_fsm.sv:278 LATCH_INFERRED at rtl/uart_core_fsm.sv:278
+WARNING uart_core_lint_007 WIDTH_MISMATCH rtl/uart_core_regs.sv:80 WIDTH_MISMATCH at rtl/uart_core_regs.sv:80 WAIVED=false positive, confirmed by design review
+INFO uart_core_lint_008 WIDTH_MISMATCH rtl/uart_core_fsm.sv:210 WIDTH_MISMATCH at rtl/uart_core_fsm.sv:210
+WARNING uart_core_lint_009 UNUSED_SIGNAL rtl/uart_core_datapath.sv:307 UNUSED_SIGNAL at rtl/uart_core_datapath.sv:307
+INFO uart_core_lint_010 LATCH_INFERRED rtl/uart_core_datapath.sv:231 LATCH_INFERRED at rtl/uart_core_datapath.sv:231
+ERROR uart_core_lint_011 COMBO_LOOP_RISK rtl/uart_core_regs.sv:124 COMBO_LOOP_RISK at rtl/uart_core_regs.sv:124
+INFO uart_core_lint_012 MULTI_DRIVEN_NET rtl/uart_core_fsm.sv:179 MULTI_DRIVEN_NET at rtl/uart_core_fsm.sv:179
+INFO uart_core_lint_013 WIDTH_MISMATCH rtl/uart_core_fsm.sv:395 WIDTH_MISMATCH at rtl/uart_core_fsm.sv:395
+WARNING uart_core_lint_014 WIDTH_MISMATCH rtl/uart_core_datapath.sv:294 WIDTH_MISMATCH at rtl/uart_core_datapath.sv:294
+ERROR uart_core_lint_015 COMBO_LOOP_RISK rtl/uart_core_datapath.sv:268 COMBO_LOOP_RISK at rtl/uart_core_datapath.sv:268
+INFO uart_core_lint_016 LATCH_INFERRED rtl/uart_core_top.sv:263 LATCH_INFERRED at rtl/uart_core_top.sv:263 WAIVED=false positive, confirmed by design review
+ERROR uart_core_lint_017 LATCH_INFERRED rtl/uart_core_datapath.sv:41 LATCH_INFERRED at rtl/uart_core_datapath.sv:41
+WARNING uart_core_lint_018 MULTI_DRIVEN_NET rtl/uart_core_datapath.sv:393 MULTI_DRIVEN_NET at rtl/uart_core_datapath.sv:393
+ERROR uart_core_lint_019 LATCH_INFERRED rtl/uart_core_datapath.sv:50 LATCH_INFERRED at rtl/uart_core_datapath.sv:50
+WARNING uart_core_lint_020 COMBO_LOOP_RISK rtl/uart_core_fsm.sv:244 COMBO_LOOP_RISK at rtl/uart_core_fsm.sv:244 WAIVED=false positive, confirmed by design review
+WARNING uart_core_lint_021 WIDTH_MISMATCH rtl/uart_core_regs.sv:365 WIDTH_MISMATCH at rtl/uart_core_regs.sv:365
+INFO uart_core_lint_022 MISSING_DEFAULT_CASE rtl/uart_core_datapath.sv:185 MISSING_DEFAULT_CASE at rtl/uart_core_datapath.sv:185 WAIVED=false positive, confirmed by design review
+WARNING uart_core_lint_023 UNUSED_SIGNAL rtl/uart_core_fsm.sv:52 UNUSED_SIGNAL at rtl/uart_core_fsm.sv:52
+WARNING uart_core_lint_024 LATCH_INFERRED rtl/uart_core_datapath.sv:322 LATCH_INFERRED at rtl/uart_core_datapath.sv:322
+INFO uart_core_lint_025 MISSING_DEFAULT_CASE rtl/uart_core_fsm.sv:58 MISSING_DEFAULT_CASE at rtl/uart_core_fsm.sv:58
+WARNING uart_core_lint_026 WIDTH_MISMATCH rtl/uart_core_datapath.sv:203 WIDTH_MISMATCH at rtl/uart_core_datapath.sv:203
+INFO uart_core_lint_027 MISSING_DEFAULT_CASE rtl/uart_core_fsm.sv:120 MISSING_DEFAULT_CASE at rtl/uart_core_fsm.sv:120 WAIVED=false positive, confirmed by design review

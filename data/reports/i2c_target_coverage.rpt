@@ -1,0 +1,49 @@
+# Coverage report for i2c_target
+FCOV i2c_target_cg_0.bin_0 HITS 100 GOAL 100
+FCOV i2c_target_cg_0.bin_1 HITS 100 GOAL 100
+FCOV i2c_target_cg_0.bin_2 HITS 100 GOAL 100
+FCOV i2c_target_cg_0.bin_3 HITS 100 GOAL 100
+FCOV i2c_target_cg_0.bin_4 HITS 46 GOAL 100
+FCOV i2c_target_cg_1.bin_0 HITS 100 GOAL 100
+FCOV i2c_target_cg_1.bin_1 HITS 7 GOAL 100
+FCOV i2c_target_cg_1.bin_2 HITS 100 GOAL 100
+FCOV i2c_target_cg_1.bin_3 HITS 100 GOAL 100
+FCOV i2c_target_cg_1.bin_4 HITS 100 GOAL 100
+FCOV i2c_target_cg_2.bin_0 HITS 0 GOAL 100
+FCOV i2c_target_cg_2.bin_1 HITS 100 GOAL 100
+FCOV i2c_target_cg_3.bin_0 HITS 78 GOAL 100
+FCOV i2c_target_cg_3.bin_1 HITS 100 GOAL 100
+FCOV i2c_target_cg_4.bin_0 HITS 100 GOAL 100
+FCOV i2c_target_cg_4.bin_1 HITS 100 GOAL 100
+FCOV i2c_target_cg_5.bin_0 HITS 100 GOAL 100
+FCOV i2c_target_cg_5.bin_1 HITS 0 GOAL 100
+FCOV i2c_target_cg_6.bin_0 HITS 100 GOAL 100
+FCOV i2c_target_cg_6.bin_1 HITS 100 GOAL 100
+FCOV i2c_target_cg_6.bin_2 HITS 60 GOAL 100
+FCOV i2c_target_cg_6.bin_3 HITS 100 GOAL 100
+FCOV i2c_target_cg_6.bin_4 HITS 0 GOAL 100
+FCOV i2c_target_cg_7.bin_0 HITS 0 GOAL 100
+FCOV i2c_target_cg_7.bin_1 HITS 100 GOAL 100
+CCOV rtl/i2c_target_regs.sv:162 HITS 0
+CCOV rtl/i2c_target_regs.sv:133 HITS 0
+CCOV rtl/i2c_target_datapath.sv:225 HITS 0
+CCOV rtl/i2c_target_regs.sv:311 HITS 0
+CCOV rtl/i2c_target_regs.sv:198 HITS 0
+CCOV rtl/i2c_target_top.sv:126 HITS 149
+CCOV rtl/i2c_target_regs.sv:14 HITS 0
+CCOV rtl/i2c_target_top.sv:106 HITS 0
+CCOV rtl/i2c_target_fsm.sv:171 HITS 242
+CCOV rtl/i2c_target_fsm.sv:168 HITS 0
+CCOV rtl/i2c_target_fsm.sv:264 HITS 0
+CCOV rtl/i2c_target_datapath.sv:116 HITS 320
+CCOV rtl/i2c_target_fsm.sv:352 HITS 0
+CCOV rtl/i2c_target_regs.sv:375 HITS 0
+CCOV rtl/i2c_target_fsm.sv:379 HITS 0
+CCOV rtl/i2c_target_datapath.sv:139 HITS 309
+CCOV rtl/i2c_target_fsm.sv:136 HITS 0
+CCOV rtl/i2c_target_datapath.sv:393 HITS 0
+CCOV rtl/i2c_target_regs.sv:304 HITS 0
+CCOV rtl/i2c_target_regs.sv:178 HITS 0
+CCOV rtl/i2c_target_top.sv:263 HITS 0
+CCOV rtl/i2c_target_datapath.sv:114 HITS 396
+CCOV rtl/i2c_target_fsm.sv:273 HITS 146

@@ -1,0 +1,46 @@
+{
+  "before": {
+    "timing_lines": [
+      610,
+      186355
+    ],
+    "lint_lines": [
+      203,
+      20706
+    ],
+    "coverage_functional_lines": [
+      209,
+      21945
+    ],
+    "coverage_code_lines": [
+      158,
+      12561
+    ],
+    "revision_lines": [
+      199,
+      19900
+    ]
+  },
+  "after": {
+    "timing_lines": [
+      610,
+      186355
+    ],
+    "lint_lines": [
+      203,
+      20706
+    ],
+    "coverage_functional_lines": [
+      209,
+      21945
+    ],
+    "coverage_code_lines": [
+      158,
+      12561
+    ],
+    "revision_lines": [
+      199,
+      19900
+    ]
+  }
+}

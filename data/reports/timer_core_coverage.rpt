@@ -1,0 +1,45 @@
+# Coverage report for timer_core
+FCOV timer_core_cg_0.bin_0 HITS 100 GOAL 100
+FCOV timer_core_cg_0.bin_1 HITS 0 GOAL 100
+FCOV timer_core_cg_1.bin_0 HITS 23 GOAL 100
+FCOV timer_core_cg_1.bin_1 HITS 0 GOAL 100
+FCOV timer_core_cg_1.bin_2 HITS 38 GOAL 100
+FCOV timer_core_cg_2.bin_0 HITS 100 GOAL 100
+FCOV timer_core_cg_2.bin_1 HITS 85 GOAL 100
+FCOV timer_core_cg_2.bin_2 HITS 100 GOAL 100
+FCOV timer_core_cg_2.bin_3 HITS 100 GOAL 100
+FCOV timer_core_cg_2.bin_4 HITS 100 GOAL 100
+FCOV timer_core_cg_3.bin_0 HITS 100 GOAL 100
+FCOV timer_core_cg_3.bin_1 HITS 0 GOAL 100
+FCOV timer_core_cg_3.bin_2 HITS 89 GOAL 100
+FCOV timer_core_cg_4.bin_0 HITS 100 GOAL 100
+FCOV timer_core_cg_4.bin_1 HITS 100 GOAL 100
+FCOV timer_core_cg_4.bin_2 HITS 100 GOAL 100
+FCOV timer_core_cg_4.bin_3 HITS 0 GOAL 100
+FCOV timer_core_cg_4.bin_4 HITS 100 GOAL 100
+FCOV timer_core_cg_5.bin_0 HITS 0 GOAL 100
+FCOV timer_core_cg_5.bin_1 HITS 32 GOAL 100
+FCOV timer_core_cg_5.bin_2 HITS 100 GOAL 100
+CCOV rtl/timer_core_datapath.sv:130 HITS 0
+CCOV rtl/timer_core_fsm.sv:248 HITS 0
+CCOV rtl/timer_core_top.sv:80 HITS 0
+CCOV rtl/timer_core_datapath.sv:154 HITS 0
+CCOV rtl/timer_core_regs.sv:107 HITS 0
+CCOV rtl/timer_core_datapath.sv:75 HITS 133
+CCOV rtl/timer_core_regs.sv:299 HITS 0
+CCOV rtl/timer_core_fsm.sv:387 HITS 364
+CCOV rtl/timer_core_fsm.sv:257 HITS 0
+CCOV rtl/timer_core_regs.sv:125 HITS 265
+CCOV rtl/timer_core_top.sv:54 HITS 0
+CCOV rtl/timer_core_regs.sv:382 HITS 0
+CCOV rtl/timer_core_top.sv:136 HITS 0
+CCOV rtl/timer_core_datapath.sv:105 HITS 96
+CCOV rtl/timer_core_datapath.sv:153 HITS 0
+CCOV rtl/timer_core_fsm.sv:151 HITS 297
+CCOV rtl/timer_core_regs.sv:99 HITS 0
+CCOV rtl/timer_core_fsm.sv:170 HITS 0
+CCOV rtl/timer_core_fsm.sv:47 HITS 28
+CCOV rtl/timer_core_fsm.sv:68 HITS 0
+CCOV rtl/timer_core_fsm.sv:400 HITS 0
+CCOV rtl/timer_core_regs.sv:130 HITS 0
+CCOV rtl/timer_core_top.sv:42 HITS 296

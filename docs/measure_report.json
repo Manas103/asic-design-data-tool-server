@@ -1,0 +1,16 @@
+{
+  "n_tools": 19,
+  "qa": {
+    "n_questions": 420,
+    "n_correct": 379,
+    "accuracy": 0.9023809523809524,
+    "n_cite_checked": 212,
+    "n_cite_correct": 178,
+    "citation_rate": 0.839622641509434
+  },
+  "replay": {
+    "n_calls": 3000,
+    "n_errors": 787,
+    "zero_writes": true
+  }
+}

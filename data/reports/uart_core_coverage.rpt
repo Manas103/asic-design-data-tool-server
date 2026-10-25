@@ -1,0 +1,56 @@
+# Coverage report for uart_core
+FCOV uart_core_cg_0.bin_0 HITS 51 GOAL 100
+FCOV uart_core_cg_0.bin_1 HITS 0 GOAL 100
+FCOV uart_core_cg_0.bin_2 HITS 84 GOAL 100
+FCOV uart_core_cg_1.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_1.bin_1 HITS 23 GOAL 100
+FCOV uart_core_cg_1.bin_2 HITS 100 GOAL 100
+FCOV uart_core_cg_2.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_2.bin_1 HITS 100 GOAL 100
+FCOV uart_core_cg_2.bin_2 HITS 100 GOAL 100
+FCOV uart_core_cg_2.bin_3 HITS 100 GOAL 100
+FCOV uart_core_cg_3.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_3.bin_1 HITS 100 GOAL 100
+FCOV uart_core_cg_3.bin_2 HITS 100 GOAL 100
+FCOV uart_core_cg_4.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_4.bin_1 HITS 100 GOAL 100
+FCOV uart_core_cg_4.bin_2 HITS 33 GOAL 100
+FCOV uart_core_cg_4.bin_3 HITS 100 GOAL 100
+FCOV uart_core_cg_5.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_5.bin_1 HITS 100 GOAL 100
+FCOV uart_core_cg_5.bin_2 HITS 100 GOAL 100
+FCOV uart_core_cg_5.bin_3 HITS 100 GOAL 100
+FCOV uart_core_cg_5.bin_4 HITS 95 GOAL 100
+FCOV uart_core_cg_6.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_6.bin_1 HITS 0 GOAL 100
+FCOV uart_core_cg_6.bin_2 HITS 100 GOAL 100
+FCOV uart_core_cg_6.bin_3 HITS 0 GOAL 100
+FCOV uart_core_cg_7.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_7.bin_1 HITS 100 GOAL 100
+FCOV uart_core_cg_7.bin_2 HITS 100 GOAL 100
+FCOV uart_core_cg_8.bin_0 HITS 100 GOAL 100
+FCOV uart_core_cg_8.bin_1 HITS 0 GOAL 100
+FCOV uart_core_cg_8.bin_2 HITS 73 GOAL 100
+FCOV uart_core_cg_8.bin_3 HITS 100 GOAL 100
+FCOV uart_core_cg_9.bin_0 HITS 0 GOAL 100
+FCOV uart_core_cg_9.bin_1 HITS 8 GOAL 100
+FCOV uart_core_cg_9.bin_2 HITS 100 GOAL 100
+FCOV uart_core_cg_9.bin_3 HITS 100 GOAL 100
+CCOV rtl/uart_core_datapath.sv:113 HITS 0
+CCOV rtl/uart_core_regs.sv:215 HITS 0
+CCOV rtl/uart_core_fsm.sv:100 HITS 0
+CCOV rtl/uart_core_datapath.sv:221 HITS 0
+CCOV rtl/uart_core_regs.sv:366 HITS 0
+CCOV rtl/uart_core_datapath.sv:45 HITS 0
+CCOV rtl/uart_core_fsm.sv:93 HITS 0
+CCOV rtl/uart_core_top.sv:327 HITS 477
+CCOV rtl/uart_core_datapath.sv:270 HITS 0
+CCOV rtl/uart_core_fsm.sv:339 HITS 0
+CCOV rtl/uart_core_regs.sv:94 HITS 0
+CCOV rtl/uart_core_datapath.sv:370 HITS 256
+CCOV rtl/uart_core_datapath.sv:89 HITS 0
+CCOV rtl/uart_core_fsm.sv:280 HITS 0
+CCOV rtl/uart_core_regs.sv:144 HITS 86
+CCOV rtl/uart_core_fsm.sv:326 HITS 0
+CCOV rtl/uart_core_regs.sv:202 HITS 0
+CCOV rtl/uart_core_top.sv:143 HITS 0

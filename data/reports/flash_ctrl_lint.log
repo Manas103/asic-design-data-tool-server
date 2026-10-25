@@ -1,0 +1,28 @@
+# Lint findings for flash_ctrl
+INFO flash_ctrl_lint_000 MULTI_DRIVEN_NET rtl/flash_ctrl_top.sv:246 MULTI_DRIVEN_NET at rtl/flash_ctrl_top.sv:246
+WARNING flash_ctrl_lint_001 UNUSED_SIGNAL rtl/flash_ctrl_fsm.sv:149 UNUSED_SIGNAL at rtl/flash_ctrl_fsm.sv:149
+INFO flash_ctrl_lint_002 COMBO_LOOP_RISK rtl/flash_ctrl_top.sv:400 COMBO_LOOP_RISK at rtl/flash_ctrl_top.sv:400
+WARNING flash_ctrl_lint_003 LATCH_INFERRED rtl/flash_ctrl_datapath.sv:70 LATCH_INFERRED at rtl/flash_ctrl_datapath.sv:70 WAIVED=false positive, confirmed by design review
+INFO flash_ctrl_lint_004 COMBO_LOOP_RISK rtl/flash_ctrl_fsm.sv:174 COMBO_LOOP_RISK at rtl/flash_ctrl_fsm.sv:174
+WARNING flash_ctrl_lint_005 WIDTH_MISMATCH rtl/flash_ctrl_fsm.sv:225 WIDTH_MISMATCH at rtl/flash_ctrl_fsm.sv:225 WAIVED=false positive, confirmed by design review
+WARNING flash_ctrl_lint_006 UNUSED_SIGNAL rtl/flash_ctrl_datapath.sv:191 UNUSED_SIGNAL at rtl/flash_ctrl_datapath.sv:191
+WARNING flash_ctrl_lint_007 MULTI_DRIVEN_NET rtl/flash_ctrl_top.sv:307 MULTI_DRIVEN_NET at rtl/flash_ctrl_top.sv:307
+WARNING flash_ctrl_lint_008 MULTI_DRIVEN_NET rtl/flash_ctrl_regs.sv:338 MULTI_DRIVEN_NET at rtl/flash_ctrl_regs.sv:338 WAIVED=false positive, confirmed by design review
+WARNING flash_ctrl_lint_009 MULTI_DRIVEN_NET rtl/flash_ctrl_top.sv:15 MULTI_DRIVEN_NET at rtl/flash_ctrl_top.sv:15 WAIVED=false positive, confirmed by design review
+ERROR flash_ctrl_lint_010 LATCH_INFERRED rtl/flash_ctrl_regs.sv:301 LATCH_INFERRED at rtl/flash_ctrl_regs.sv:301
+INFO flash_ctrl_lint_011 MULTI_DRIVEN_NET rtl/flash_ctrl_fsm.sv:247 MULTI_DRIVEN_NET at rtl/flash_ctrl_fsm.sv:247
+INFO flash_ctrl_lint_012 MULTI_DRIVEN_NET rtl/flash_ctrl_regs.sv:278 MULTI_DRIVEN_NET at rtl/flash_ctrl_regs.sv:278
+WARNING flash_ctrl_lint_013 LATCH_INFERRED rtl/flash_ctrl_top.sv:26 LATCH_INFERRED at rtl/flash_ctrl_top.sv:26
+ERROR flash_ctrl_lint_014 UNUSED_SIGNAL rtl/flash_ctrl_fsm.sv:285 UNUSED_SIGNAL at rtl/flash_ctrl_fsm.sv:285 WAIVED=false positive, confirmed by design review
+WARNING flash_ctrl_lint_015 MULTI_DRIVEN_NET rtl/flash_ctrl_top.sv:96 MULTI_DRIVEN_NET at rtl/flash_ctrl_top.sv:96
+WARNING flash_ctrl_lint_016 LATCH_INFERRED rtl/flash_ctrl_datapath.sv:353 LATCH_INFERRED at rtl/flash_ctrl_datapath.sv:353
+WARNING flash_ctrl_lint_017 MISSING_DEFAULT_CASE rtl/flash_ctrl_regs.sv:342 MISSING_DEFAULT_CASE at rtl/flash_ctrl_regs.sv:342 WAIVED=false positive, confirmed by design review
+WARNING flash_ctrl_lint_018 WIDTH_MISMATCH rtl/flash_ctrl_fsm.sv:389 WIDTH_MISMATCH at rtl/flash_ctrl_fsm.sv:389
+ERROR flash_ctrl_lint_019 COMBO_LOOP_RISK rtl/flash_ctrl_regs.sv:95 COMBO_LOOP_RISK at rtl/flash_ctrl_regs.sv:95
+WARNING flash_ctrl_lint_020 WIDTH_MISMATCH rtl/flash_ctrl_top.sv:105 WIDTH_MISMATCH at rtl/flash_ctrl_top.sv:105
+INFO flash_ctrl_lint_021 UNUSED_SIGNAL rtl/flash_ctrl_fsm.sv:207 UNUSED_SIGNAL at rtl/flash_ctrl_fsm.sv:207
+ERROR flash_ctrl_lint_022 UNUSED_SIGNAL rtl/flash_ctrl_fsm.sv:384 UNUSED_SIGNAL at rtl/flash_ctrl_fsm.sv:384
+ERROR flash_ctrl_lint_023 LATCH_INFERRED rtl/flash_ctrl_top.sv:167 LATCH_INFERRED at rtl/flash_ctrl_top.sv:167
+ERROR flash_ctrl_lint_024 COMBO_LOOP_RISK rtl/flash_ctrl_fsm.sv:21 COMBO_LOOP_RISK at rtl/flash_ctrl_fsm.sv:21
+WARNING flash_ctrl_lint_025 MISSING_DEFAULT_CASE rtl/flash_ctrl_top.sv:328 MISSING_DEFAULT_CASE at rtl/flash_ctrl_top.sv:328
+WARNING flash_ctrl_lint_026 LATCH_INFERRED rtl/flash_ctrl_top.sv:212 LATCH_INFERRED at rtl/flash_ctrl_top.sv:212

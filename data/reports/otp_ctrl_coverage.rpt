@@ -1,0 +1,50 @@
+# Coverage report for otp_ctrl
+FCOV otp_ctrl_cg_0.bin_0 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_0.bin_1 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_0.bin_2 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_1.bin_0 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_1.bin_1 HITS 57 GOAL 100
+FCOV otp_ctrl_cg_1.bin_2 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_1.bin_3 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_2.bin_0 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_2.bin_1 HITS 0 GOAL 100
+FCOV otp_ctrl_cg_3.bin_0 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_3.bin_1 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_3.bin_2 HITS 72 GOAL 100
+FCOV otp_ctrl_cg_3.bin_3 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_4.bin_0 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_4.bin_1 HITS 69 GOAL 100
+FCOV otp_ctrl_cg_4.bin_2 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_4.bin_3 HITS 0 GOAL 100
+FCOV otp_ctrl_cg_5.bin_0 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_5.bin_1 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_6.bin_0 HITS 52 GOAL 100
+FCOV otp_ctrl_cg_6.bin_1 HITS 0 GOAL 100
+FCOV otp_ctrl_cg_7.bin_0 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_7.bin_1 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_7.bin_2 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_7.bin_3 HITS 32 GOAL 100
+FCOV otp_ctrl_cg_8.bin_0 HITS 37 GOAL 100
+FCOV otp_ctrl_cg_8.bin_1 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_8.bin_2 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_8.bin_3 HITS 2 GOAL 100
+FCOV otp_ctrl_cg_8.bin_4 HITS 0 GOAL 100
+FCOV otp_ctrl_cg_9.bin_0 HITS 0 GOAL 100
+FCOV otp_ctrl_cg_9.bin_1 HITS 21 GOAL 100
+FCOV otp_ctrl_cg_9.bin_2 HITS 100 GOAL 100
+FCOV otp_ctrl_cg_9.bin_3 HITS 0 GOAL 100
+CCOV rtl/otp_ctrl_regs.sv:161 HITS 0
+CCOV rtl/otp_ctrl_top.sv:21 HITS 299
+CCOV rtl/otp_ctrl_regs.sv:360 HITS 367
+CCOV rtl/otp_ctrl_top.sv:300 HITS 0
+CCOV rtl/otp_ctrl_top.sv:178 HITS 0
+CCOV rtl/otp_ctrl_datapath.sv:63 HITS 0
+CCOV rtl/otp_ctrl_datapath.sv:197 HITS 0
+CCOV rtl/otp_ctrl_fsm.sv:350 HITS 0
+CCOV rtl/otp_ctrl_datapath.sv:264 HITS 0
+CCOV rtl/otp_ctrl_fsm.sv:238 HITS 0
+CCOV rtl/otp_ctrl_datapath.sv:374 HITS 0
+CCOV rtl/otp_ctrl_top.sv:242 HITS 0
+CCOV rtl/otp_ctrl_regs.sv:146 HITS 28
+CCOV rtl/otp_ctrl_regs.sv:284 HITS 0
+CCOV rtl/otp_ctrl_datapath.sv:220 HITS 0

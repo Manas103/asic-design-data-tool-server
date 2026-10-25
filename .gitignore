@@ -1,0 +1,11 @@
+venv/
+venv_wsl/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Scratch corpus copies qa_corpus.py and replay_calls.py regenerate in-memory for ground truth
+# and never need to be committed; the real committed sample corpus is data/reports/.
+data/qa_reports_scratch/
+data/replay_reports_scratch/

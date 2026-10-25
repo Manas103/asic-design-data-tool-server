@@ -1,0 +1,26 @@
+# Lint findings for i2c_target
+ERROR i2c_target_lint_000 COMBO_LOOP_RISK rtl/i2c_target_regs.sv:348 COMBO_LOOP_RISK at rtl/i2c_target_regs.sv:348
+ERROR i2c_target_lint_001 LATCH_INFERRED rtl/i2c_target_top.sv:226 LATCH_INFERRED at rtl/i2c_target_top.sv:226 WAIVED=false positive, confirmed by design review
+INFO i2c_target_lint_002 MULTI_DRIVEN_NET rtl/i2c_target_fsm.sv:41 MULTI_DRIVEN_NET at rtl/i2c_target_fsm.sv:41 WAIVED=false positive, confirmed by design review
+WARNING i2c_target_lint_003 WIDTH_MISMATCH rtl/i2c_target_fsm.sv:266 WIDTH_MISMATCH at rtl/i2c_target_fsm.sv:266
+WARNING i2c_target_lint_004 COMBO_LOOP_RISK rtl/i2c_target_datapath.sv:384 COMBO_LOOP_RISK at rtl/i2c_target_datapath.sv:384
+WARNING i2c_target_lint_005 MISSING_DEFAULT_CASE rtl/i2c_target_fsm.sv:389 MISSING_DEFAULT_CASE at rtl/i2c_target_fsm.sv:389
+ERROR i2c_target_lint_006 LATCH_INFERRED rtl/i2c_target_datapath.sv:54 LATCH_INFERRED at rtl/i2c_target_datapath.sv:54
+ERROR i2c_target_lint_007 WIDTH_MISMATCH rtl/i2c_target_datapath.sv:295 WIDTH_MISMATCH at rtl/i2c_target_datapath.sv:295
+WARNING i2c_target_lint_008 LATCH_INFERRED rtl/i2c_target_top.sv:319 LATCH_INFERRED at rtl/i2c_target_top.sv:319
+ERROR i2c_target_lint_009 WIDTH_MISMATCH rtl/i2c_target_regs.sv:239 WIDTH_MISMATCH at rtl/i2c_target_regs.sv:239
+ERROR i2c_target_lint_010 WIDTH_MISMATCH rtl/i2c_target_top.sv:109 WIDTH_MISMATCH at rtl/i2c_target_top.sv:109
+ERROR i2c_target_lint_011 LATCH_INFERRED rtl/i2c_target_regs.sv:195 LATCH_INFERRED at rtl/i2c_target_regs.sv:195
+WARNING i2c_target_lint_012 COMBO_LOOP_RISK rtl/i2c_target_fsm.sv:33 COMBO_LOOP_RISK at rtl/i2c_target_fsm.sv:33
+WARNING i2c_target_lint_013 LATCH_INFERRED rtl/i2c_target_regs.sv:206 LATCH_INFERRED at rtl/i2c_target_regs.sv:206
+ERROR i2c_target_lint_014 UNUSED_SIGNAL rtl/i2c_target_top.sv:180 UNUSED_SIGNAL at rtl/i2c_target_top.sv:180
+WARNING i2c_target_lint_015 MISSING_DEFAULT_CASE rtl/i2c_target_regs.sv:10 MISSING_DEFAULT_CASE at rtl/i2c_target_regs.sv:10
+WARNING i2c_target_lint_016 UNUSED_SIGNAL rtl/i2c_target_datapath.sv:386 UNUSED_SIGNAL at rtl/i2c_target_datapath.sv:386
+WARNING i2c_target_lint_017 COMBO_LOOP_RISK rtl/i2c_target_regs.sv:109 COMBO_LOOP_RISK at rtl/i2c_target_regs.sv:109
+ERROR i2c_target_lint_018 WIDTH_MISMATCH rtl/i2c_target_datapath.sv:153 WIDTH_MISMATCH at rtl/i2c_target_datapath.sv:153
+INFO i2c_target_lint_019 LATCH_INFERRED rtl/i2c_target_top.sv:236 LATCH_INFERRED at rtl/i2c_target_top.sv:236
+WARNING i2c_target_lint_020 WIDTH_MISMATCH rtl/i2c_target_fsm.sv:351 WIDTH_MISMATCH at rtl/i2c_target_fsm.sv:351
+ERROR i2c_target_lint_021 WIDTH_MISMATCH rtl/i2c_target_regs.sv:64 WIDTH_MISMATCH at rtl/i2c_target_regs.sv:64
+INFO i2c_target_lint_022 WIDTH_MISMATCH rtl/i2c_target_fsm.sv:374 WIDTH_MISMATCH at rtl/i2c_target_fsm.sv:374
+INFO i2c_target_lint_023 LATCH_INFERRED rtl/i2c_target_fsm.sv:389 LATCH_INFERRED at rtl/i2c_target_fsm.sv:389 WAIVED=false positive, confirmed by design review
+ERROR i2c_target_lint_024 UNUSED_SIGNAL rtl/i2c_target_top.sv:254 UNUSED_SIGNAL at rtl/i2c_target_top.sv:254

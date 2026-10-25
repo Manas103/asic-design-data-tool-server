@@ -1,0 +1,26 @@
+# Lint findings for spi_host
+WARNING spi_host_lint_000 UNUSED_SIGNAL rtl/spi_host_datapath.sv:302 UNUSED_SIGNAL at rtl/spi_host_datapath.sv:302
+INFO spi_host_lint_001 WIDTH_MISMATCH rtl/spi_host_fsm.sv:125 WIDTH_MISMATCH at rtl/spi_host_fsm.sv:125 WAIVED=false positive, confirmed by design review
+INFO spi_host_lint_002 LATCH_INFERRED rtl/spi_host_regs.sv:180 LATCH_INFERRED at rtl/spi_host_regs.sv:180
+WARNING spi_host_lint_003 UNUSED_SIGNAL rtl/spi_host_fsm.sv:149 UNUSED_SIGNAL at rtl/spi_host_fsm.sv:149
+INFO spi_host_lint_004 WIDTH_MISMATCH rtl/spi_host_fsm.sv:182 WIDTH_MISMATCH at rtl/spi_host_fsm.sv:182
+INFO spi_host_lint_005 WIDTH_MISMATCH rtl/spi_host_datapath.sv:341 WIDTH_MISMATCH at rtl/spi_host_datapath.sv:341
+WARNING spi_host_lint_006 MULTI_DRIVEN_NET rtl/spi_host_fsm.sv:354 MULTI_DRIVEN_NET at rtl/spi_host_fsm.sv:354
+WARNING spi_host_lint_007 WIDTH_MISMATCH rtl/spi_host_top.sv:142 WIDTH_MISMATCH at rtl/spi_host_top.sv:142
+WARNING spi_host_lint_008 COMBO_LOOP_RISK rtl/spi_host_top.sv:45 COMBO_LOOP_RISK at rtl/spi_host_top.sv:45 WAIVED=false positive, confirmed by design review
+ERROR spi_host_lint_009 LATCH_INFERRED rtl/spi_host_regs.sv:74 LATCH_INFERRED at rtl/spi_host_regs.sv:74
+WARNING spi_host_lint_010 LATCH_INFERRED rtl/spi_host_fsm.sv:169 LATCH_INFERRED at rtl/spi_host_fsm.sv:169
+INFO spi_host_lint_011 WIDTH_MISMATCH rtl/spi_host_fsm.sv:362 WIDTH_MISMATCH at rtl/spi_host_fsm.sv:362
+INFO spi_host_lint_012 WIDTH_MISMATCH rtl/spi_host_datapath.sv:263 WIDTH_MISMATCH at rtl/spi_host_datapath.sv:263
+ERROR spi_host_lint_013 WIDTH_MISMATCH rtl/spi_host_datapath.sv:151 WIDTH_MISMATCH at rtl/spi_host_datapath.sv:151
+INFO spi_host_lint_014 COMBO_LOOP_RISK rtl/spi_host_regs.sv:78 COMBO_LOOP_RISK at rtl/spi_host_regs.sv:78 WAIVED=false positive, confirmed by design review
+ERROR spi_host_lint_015 COMBO_LOOP_RISK rtl/spi_host_regs.sv:386 COMBO_LOOP_RISK at rtl/spi_host_regs.sv:386 WAIVED=false positive, confirmed by design review
+INFO spi_host_lint_016 UNUSED_SIGNAL rtl/spi_host_fsm.sv:153 UNUSED_SIGNAL at rtl/spi_host_fsm.sv:153
+ERROR spi_host_lint_017 COMBO_LOOP_RISK rtl/spi_host_top.sv:69 COMBO_LOOP_RISK at rtl/spi_host_top.sv:69
+WARNING spi_host_lint_018 UNUSED_SIGNAL rtl/spi_host_top.sv:74 UNUSED_SIGNAL at rtl/spi_host_top.sv:74 WAIVED=false positive, confirmed by design review
+ERROR spi_host_lint_019 MISSING_DEFAULT_CASE rtl/spi_host_regs.sv:287 MISSING_DEFAULT_CASE at rtl/spi_host_regs.sv:287
+WARNING spi_host_lint_020 MULTI_DRIVEN_NET rtl/spi_host_fsm.sv:35 MULTI_DRIVEN_NET at rtl/spi_host_fsm.sv:35
+INFO spi_host_lint_021 COMBO_LOOP_RISK rtl/spi_host_regs.sv:93 COMBO_LOOP_RISK at rtl/spi_host_regs.sv:93
+ERROR spi_host_lint_022 COMBO_LOOP_RISK rtl/spi_host_regs.sv:67 COMBO_LOOP_RISK at rtl/spi_host_regs.sv:67
+INFO spi_host_lint_023 LATCH_INFERRED rtl/spi_host_fsm.sv:321 LATCH_INFERRED at rtl/spi_host_fsm.sv:321
+INFO spi_host_lint_024 UNUSED_SIGNAL rtl/spi_host_top.sv:269 UNUSED_SIGNAL at rtl/spi_host_top.sv:269

@@ -1,0 +1,46 @@
+# Coverage report for aes_core
+FCOV aes_core_cg_0.bin_0 HITS 0 GOAL 100
+FCOV aes_core_cg_0.bin_1 HITS 0 GOAL 100
+FCOV aes_core_cg_0.bin_2 HITS 0 GOAL 100
+FCOV aes_core_cg_0.bin_3 HITS 100 GOAL 100
+FCOV aes_core_cg_0.bin_4 HITS 100 GOAL 100
+FCOV aes_core_cg_1.bin_0 HITS 100 GOAL 100
+FCOV aes_core_cg_1.bin_1 HITS 100 GOAL 100
+FCOV aes_core_cg_1.bin_2 HITS 100 GOAL 100
+FCOV aes_core_cg_1.bin_3 HITS 100 GOAL 100
+FCOV aes_core_cg_2.bin_0 HITS 78 GOAL 100
+FCOV aes_core_cg_2.bin_1 HITS 100 GOAL 100
+FCOV aes_core_cg_2.bin_2 HITS 100 GOAL 100
+FCOV aes_core_cg_2.bin_3 HITS 23 GOAL 100
+FCOV aes_core_cg_2.bin_4 HITS 100 GOAL 100
+FCOV aes_core_cg_3.bin_0 HITS 100 GOAL 100
+FCOV aes_core_cg_3.bin_1 HITS 33 GOAL 100
+FCOV aes_core_cg_3.bin_2 HITS 100 GOAL 100
+FCOV aes_core_cg_4.bin_0 HITS 100 GOAL 100
+FCOV aes_core_cg_4.bin_1 HITS 100 GOAL 100
+FCOV aes_core_cg_4.bin_2 HITS 100 GOAL 100
+FCOV aes_core_cg_5.bin_0 HITS 100 GOAL 100
+FCOV aes_core_cg_5.bin_1 HITS 100 GOAL 100
+FCOV aes_core_cg_5.bin_2 HITS 100 GOAL 100
+FCOV aes_core_cg_5.bin_3 HITS 0 GOAL 100
+FCOV aes_core_cg_5.bin_4 HITS 100 GOAL 100
+FCOV aes_core_cg_6.bin_0 HITS 0 GOAL 100
+FCOV aes_core_cg_6.bin_1 HITS 100 GOAL 100
+FCOV aes_core_cg_6.bin_2 HITS 100 GOAL 100
+FCOV aes_core_cg_7.bin_0 HITS 100 GOAL 100
+FCOV aes_core_cg_7.bin_1 HITS 100 GOAL 100
+CCOV rtl/aes_core_top.sv:83 HITS 46
+CCOV rtl/aes_core_fsm.sv:383 HITS 0
+CCOV rtl/aes_core_fsm.sv:342 HITS 0
+CCOV rtl/aes_core_datapath.sv:115 HITS 0
+CCOV rtl/aes_core_fsm.sv:227 HITS 0
+CCOV rtl/aes_core_top.sv:396 HITS 0
+CCOV rtl/aes_core_datapath.sv:345 HITS 0
+CCOV rtl/aes_core_fsm.sv:278 HITS 471
+CCOV rtl/aes_core_fsm.sv:382 HITS 357
+CCOV rtl/aes_core_top.sv:217 HITS 0
+CCOV rtl/aes_core_datapath.sv:25 HITS 0
+CCOV rtl/aes_core_fsm.sv:52 HITS 0
+CCOV rtl/aes_core_regs.sv:332 HITS 0
+CCOV rtl/aes_core_datapath.sv:231 HITS 0
+CCOV rtl/aes_core_datapath.sv:198 HITS 373

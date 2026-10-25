@@ -1,0 +1,2522 @@
+[
+  {
+    "qid": 1,
+    "text": "Which bins are below coverage goal in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 2,
+    "text": "Why was lint finding flash_ctrl_lint_020 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 3,
+    "text": "Compare timing for endpoint i2c_target_u/reg_3/D in i2c_target between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 4,
+    "text": "List the lint findings in otp_ctrl with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 5,
+    "text": "What is the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 6,
+    "text": "What is the commit history for rtl/timer_core_fsm.sv in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 7,
+    "text": "What is the code coverage hit count for rtl/gpio_ctrl_top.sv line 231 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 8,
+    "text": "What is the detail for lint finding otp_ctrl_lint_004?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 9,
+    "text": "Show me the lint findings in flash_ctrl with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 10,
+    "text": "What is the critical path detail for timer_core_path_021 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 11,
+    "text": "Why was lint finding i2c_target_lint_002 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 12,
+    "text": "Why was lint finding timer_core_lint_010 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 13,
+    "text": "List the functional coverage holes in i2c_target.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 14,
+    "text": "List the functional coverage holes in timer_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 15,
+    "text": "List the lint findings in i2c_target with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 16,
+    "text": "How much slack does endpoint uart_core_u/reg_7/D have in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 17,
+    "text": "What is the code coverage hit count for rtl/spi_host_top.sv line 31 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 18,
+    "text": "What is the code verification coverage hit count for rtl/flash_ctrl_top.sv line 255 in flash_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 19,
+    "text": "Which bins are below coverage goal in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 20,
+    "text": "What is the code coverage hit count for rtl/otp_ctrl_datapath.sv line 197 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 21,
+    "text": "Who last touched rtl/timer_core_fsm.sv in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 22,
+    "text": "What is the critical path detail for otp_ctrl_path_027 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 23,
+    "text": "Show me the lint findings in gpio_ctrl with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 24,
+    "text": "Which commits in gpio_ctrl mention counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 25,
+    "text": "Show the functional coverage group gpio_ctrl_cg_1 in gpio_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 26,
+    "text": "What is the commit history for rtl/gpio_ctrl_top.sv in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 27,
+    "text": "What is the commit history for rtl/aes_core_fsm.sv in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 28,
+    "text": "Why was lint finding otp_ctrl_lint_017 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 29,
+    "text": "Which commits in spi_host mention counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 30,
+    "text": "What is commit aes_core_nonexistent_commit in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 31,
+    "text": "Could you tell me the code coverage hit count for rtl/flash_ctrl_top.sv line 110 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 32,
+    "text": "What is commit i2c_0000 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 33,
+    "text": "Why was lint finding aes_core_lint_016 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 34,
+    "text": "How much slack does endpoint aes_core_u/reg_7/D have in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 35,
+    "text": "Which bins are below coverage goal in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 36,
+    "text": "What is the critical path detail for uart_core_path_999 in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 37,
+    "text": "Could you tell me the critical path detail for otp_ctrl_path_999 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 38,
+    "text": "What is the critical path detail for flash_ctrl_path_005 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 39,
+    "text": "What is the code coverage hit count for rtl/uart_core_fsm.sv line 326 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 40,
+    "text": "Could you tell me commit spi_0009 in spi_host?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 41,
+    "text": "Who last touched rtl/gpio_ctrl_datapath.sv in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 42,
+    "text": "Diff changelists spi_0010 and spi_0009 in spi_host.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 43,
+    "text": "Why was lint finding timer_core_lint_008 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 44,
+    "text": "Could you tell me the detail for lint finding aes_core_lint_022?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 45,
+    "text": "Diff changelists otp_0014 and otp_0010 in otp_ctrl.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 46,
+    "text": "Why was lint finding i2c_target_lint_001 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 47,
+    "text": "Diff commits time000b and time0001 in timer_core.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 48,
+    "text": "What is the detail for lint finding flash_ctrl_lint_003?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 49,
+    "text": "What is the detail for lint finding i2c_target_lint_000?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 50,
+    "text": "Why was lint finding i2c_target_lint_020 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 51,
+    "text": "Could you tell me the detail for lint finding flash_ctrl_lint_022?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 52,
+    "text": "Show the functional coverage group gpio_ctrl_cg_3 in gpio_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 53,
+    "text": "What is the code coverage hit count for rtl/timer_core_regs.sv line 299 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 54,
+    "text": "Which changelists in flash_ctrl mention onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 55,
+    "text": "What is the detail for lint finding aes_core_lint_018?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 56,
+    "text": "List the timing violations in i2c_target.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 57,
+    "text": "Which commits in aes_core mention onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 58,
+    "text": "What is the verification coverage summary for uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 59,
+    "text": "Show me the lint findings in aes_core with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 60,
+    "text": "List the functional coverage holes in flash_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 61,
+    "text": "What is the worst-case slack value for i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 62,
+    "text": "Which bins are below coverage goal in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 63,
+    "text": "What is changelist time0005 in timer_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 64,
+    "text": "What is changelist flas0002 in flash_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 65,
+    "text": "Which bins are below verification coverage goal in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 66,
+    "text": "Which bins are below verification coverage goal in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 67,
+    "text": "Which changelists in timer_core mention onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 68,
+    "text": "Why was lint finding flash_ctrl_lint_018 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 69,
+    "text": "Show the functional coverage group aes_core_cg_5 in aes_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 70,
+    "text": "Which commits in otp_ctrl reference fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 71,
+    "text": "Show the functional verification coverage group spi_host_cg_4 in spi_host.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 72,
+    "text": "List the functional coverage holes in uart_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 73,
+    "text": "What is commit time0001 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 74,
+    "text": "Which commits in aes_core mention fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 75,
+    "text": "Summarize lint findings by rule for timer_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 76,
+    "text": "How much slack does endpoint timer_core_u/reg_17/D have in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 77,
+    "text": "Why was lint finding uart_core_lint_003 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 78,
+    "text": "What is the code coverage hit count for rtl/uart_core_datapath.sv line 45 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 79,
+    "text": "Show me the timing violations in uart_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 80,
+    "text": "Why was lint finding spi_host_lint_006 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 81,
+    "text": "Diff commits gpio0015 and gpio0016 in gpio_ctrl.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 82,
+    "text": "Show the functional verification coverage group otp_ctrl_cg_3 in otp_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 83,
+    "text": "Which bins are below coverage goal in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 84,
+    "text": "What is the critical path detail for otp_ctrl_path_034 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 85,
+    "text": "How much slack does endpoint flash_ctrl_u/reg_nonexistent/D have in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 86,
+    "text": "List the lint findings in otp_ctrl with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 87,
+    "text": "What is the detail for lint finding uart_core_lint_018?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 88,
+    "text": "What is the code coverage hit count for rtl/flash_ctrl_nonexistent.sv line 9999 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 89,
+    "text": "What is the worst slack endpoint in spi_host's timing report?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 90,
+    "text": "Who last touched rtl/spi_host_regs.sv in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 91,
+    "text": "Could you tell me the commit history for rtl/otp_ctrl_fsm.sv in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 92,
+    "text": "What is the critical path detail for uart_core_path_006 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 93,
+    "text": "Who last touched rtl/uart_core_datapath.sv in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 94,
+    "text": "List the timing violations in otp_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 95,
+    "text": "What is the code coverage hit count for rtl/otp_ctrl_regs.sv line 284 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 96,
+    "text": "What is the detail for lint finding aes_core_lint_017?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 97,
+    "text": "Show the functional coverage group otp_ctrl_cg_4 in otp_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 98,
+    "text": "What is the code coverage hit count for rtl/timer_core_nonexistent.sv line 9999 in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 99,
+    "text": "Compare timing for endpoint otp_ctrl_u/reg_32/D in otp_ctrl between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 100,
+    "text": "How much slack does pin flash_ctrl_u/reg_15/D have in flash_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 101,
+    "text": "Why was lint finding otp_ctrl_lint_018 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 102,
+    "text": "How much slack does endpoint timer_core_u/reg_13/D have in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 103,
+    "text": "What is the critical path detail for flash_ctrl_path_023 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 104,
+    "text": "What is the coverage summary for spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 105,
+    "text": "What is the code verification coverage hit count for rtl/flash_ctrl_regs.sv line 298 in flash_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 106,
+    "text": "What is the detail for lint finding gpio_ctrl_lint_017?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 107,
+    "text": "Compare timing for pin otp_ctrl_u/reg_27/D in otp_ctrl between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 108,
+    "text": "Diff commits spi_0017 and spi_000d in spi_host.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 109,
+    "text": "List the lint findings in gpio_ctrl with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 110,
+    "text": "Show the functional coverage group i2c_target_cg_3 in i2c_target.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 111,
+    "text": "Which changelists in spi_host mention fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 112,
+    "text": "How much slack does endpoint flash_ctrl_u/reg_13/D have in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 113,
+    "text": "How much slack does endpoint aes_core_u/reg_4/D have in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 114,
+    "text": "Why was lint finding uart_core_lint_011 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 115,
+    "text": "How much slack does endpoint aes_core_u/reg_10/D have in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 116,
+    "text": "How much slack does endpoint spi_host_u/reg_0/D have in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 117,
+    "text": "What is the worst slack pin in flash_ctrl's timing report?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 118,
+    "text": "Why was lint finding spi_host_lint_014 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 119,
+    "text": "How much slack does endpoint otp_ctrl_u/reg_18/D have in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 120,
+    "text": "What is the critical path detail for uart_core_path_014 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 121,
+    "text": "How much slack does endpoint otp_ctrl_u/reg_4/D have in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 122,
+    "text": "What is the commit history for rtl/aes_core_regs.sv in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 123,
+    "text": "What is the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 124,
+    "text": "Could you tell me the critical path detail for otp_ctrl_path_007 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 125,
+    "text": "What is the critical path detail for gpio_ctrl_path_027 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 126,
+    "text": "List the lint findings in timer_core with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 127,
+    "text": "What is the code coverage hit count for rtl/aes_core_fsm.sv line 383 in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 128,
+    "text": "What is changelist gpio000c in gpio_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 129,
+    "text": "What is the worst slack endpoint in gpio_ctrl's timing report?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 130,
+    "text": "Could you tell me the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 131,
+    "text": "Show the functional verification coverage group uart_core_cg_0 in uart_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 132,
+    "text": "Compare timing for endpoint aes_core_u/reg_12/D in aes_core between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 133,
+    "text": "What is the code coverage hit count for rtl/timer_core_fsm.sv line 387 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 134,
+    "text": "List the lint findings in aes_core with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 135,
+    "text": "Which bins are below coverage goal in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 136,
+    "text": "Could you tell me commit gpio0017 in gpio_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 137,
+    "text": "Summarize lint findings by rule for otp_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 138,
+    "text": "How much slack does endpoint uart_core_u/reg_nonexistent/D have in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 139,
+    "text": "What is the code coverage hit count for rtl/uart_core_nonexistent.sv line 9999 in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 140,
+    "text": "What is the commit history for rtl/i2c_target_datapath.sv in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 141,
+    "text": "What is the detail for lint finding spi_host_lint_005?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 142,
+    "text": "Why was lint finding aes_core_lint_010 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 143,
+    "text": "Why was lint finding uart_core_lint_020 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 144,
+    "text": "What is the changelist history for rtl/i2c_target_datapath.sv in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 145,
+    "text": "Show the functional coverage group spi_host_cg_1 in spi_host.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 146,
+    "text": "What is the verification coverage summary for i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 147,
+    "text": "What is the detail for lint finding i2c_target_lint_023?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 148,
+    "text": "Why was lint finding aes_core_lint_028 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 149,
+    "text": "What is the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 150,
+    "text": "Could you tell me the code coverage hit count for rtl/otp_ctrl_nonexistent.sv line 9999 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 151,
+    "text": "Which bins are below coverage goal in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 152,
+    "text": "How much slack does endpoint uart_core_u/reg_40/D have in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 153,
+    "text": "Could you tell me the detail for lint finding i2c_target_lint_024?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 154,
+    "text": "What is the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 155,
+    "text": "Which commits in i2c_target mention onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 156,
+    "text": "What is the critical path detail for uart_core_path_032 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 157,
+    "text": "Compare timing for endpoint i2c_target_u/reg_32/D in i2c_target between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 158,
+    "text": "How much slack does endpoint gpio_ctrl_u/reg_20/D have in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 159,
+    "text": "Show me the lint findings in i2c_target with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 160,
+    "text": "List the functional verification coverage holes in flash_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 161,
+    "text": "What is the detail for lint finding gpio_ctrl_lint_010?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 162,
+    "text": "What is changelist gpio0016 in gpio_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 163,
+    "text": "What is the detail for lint finding timer_core_lint_011?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 164,
+    "text": "Why was lint finding aes_core_lint_014 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 165,
+    "text": "What is the critical path detail for timer_core_path_031 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 166,
+    "text": "What is the code coverage hit count for rtl/spi_host_nonexistent.sv line 9999 in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 167,
+    "text": "Why was lint finding otp_ctrl_lint_015 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 168,
+    "text": "Could you tell me the detail for lint finding flash_ctrl_lint_011?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 169,
+    "text": "What is commit gpio_ctrl_nonexistent_commit in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 170,
+    "text": "Show me the lint findings in spi_host with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 171,
+    "text": "List the lint findings in spi_host with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 172,
+    "text": "Who last touched rtl/aes_core_regs.sv in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 173,
+    "text": "List the functional coverage holes in spi_host.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 174,
+    "text": "What is the code verification coverage hit count for rtl/aes_core_datapath.sv line 25 in aes_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 175,
+    "text": "Compare timing for endpoint spi_host_u/reg_32/D in spi_host between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 176,
+    "text": "What is the commit history for rtl/timer_core_fsm.sv in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 177,
+    "text": "How much slack does endpoint i2c_target_u/reg_35/D have in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 178,
+    "text": "List the lint findings in otp_ctrl with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 179,
+    "text": "Which commits in flash_ctrl mention counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 180,
+    "text": "What is the detail for lint finding spi_host_lint_019?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 181,
+    "text": "List the functional coverage holes in otp_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 182,
+    "text": "What is the code coverage hit count for rtl/spi_host_datapath.sv line 145 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 183,
+    "text": "What is the coverage summary for aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 184,
+    "text": "What is the code coverage hit count for rtl/gpio_ctrl_nonexistent.sv line 9999 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 185,
+    "text": "List the functional coverage holes in otp_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 186,
+    "text": "Why was lint finding spi_host_lint_024 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 187,
+    "text": "Could you tell me the code coverage hit count for rtl/aes_core_nonexistent.sv line 9999 in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 188,
+    "text": "Summarize lint findings by rule for spi_host.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 189,
+    "text": "Compare timing for endpoint aes_core_u/reg_29/D in aes_core between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 190,
+    "text": "Diff commits i2c_0013 and i2c_000b in i2c_target.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 191,
+    "text": "What is commit spi_0011 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 192,
+    "text": "Which commits in uart_core reference counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 193,
+    "text": "How much slack does endpoint otp_ctrl_u/reg_12/D have in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 194,
+    "text": "What is the code coverage hit count for rtl/gpio_ctrl_top.sv line 156 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 195,
+    "text": "What is the detail for lint finding aes_core_lint_013?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 196,
+    "text": "What is commit i2c_target_nonexistent_commit in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 197,
+    "text": "What is the code coverage hit count for rtl/i2c_target_fsm.sv line 273 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 198,
+    "text": "Who most recently modified rtl/timer_core_fsm.sv in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 199,
+    "text": "Show me the lint findings in flash_ctrl with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 200,
+    "text": "Which commits in spi_host mention onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 201,
+    "text": "Summarize lint findings by rule for gpio_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 202,
+    "text": "List the functional coverage holes in aes_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 203,
+    "text": "Compare timing for endpoint flash_ctrl_u/reg_28/D in flash_ctrl between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 204,
+    "text": "Which bins are below coverage goal in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 205,
+    "text": "How much slack does endpoint timer_core_u/reg_22/D have in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 206,
+    "text": "What is the worst-case timing margin value for aes_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 207,
+    "text": "Diff commits aes_000b and aes_0012 in aes_core.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 208,
+    "text": "How much slack does pin otp_ctrl_u/reg_27/D have in otp_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 209,
+    "text": "What is the critical path detail for uart_core_path_038 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 210,
+    "text": "List the lint findings in aes_core with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 211,
+    "text": "What is the worst-case timing margin value for otp_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 212,
+    "text": "Which commits in otp_ctrl reference onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 213,
+    "text": "What is the critical path detail for aes_core_path_026 in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 214,
+    "text": "Could you tell me the critical path detail for timer_core_path_999 in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 215,
+    "text": "How much slack does pin timer_core_u/reg_24/D have in timer_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 216,
+    "text": "What is the detail for lint finding gpio_ctrl_lint_019?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 217,
+    "text": "List the lint findings in i2c_target with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 218,
+    "text": "Diff changelists otp_0014 and otp_0007 in otp_ctrl.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 219,
+    "text": "Who last touched rtl/aes_core_regs.sv in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 220,
+    "text": "What is the detail for lint finding otp_ctrl_lint_000?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 221,
+    "text": "What is changelist otp_ctrl_nonexistent_commit in otp_ctrl?",
+    "correct": false,
+    "cite_correct": null
+  },
+  {
+    "qid": 222,
+    "text": "Diff commits gpio000d and gpio0003 in gpio_ctrl.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 223,
+    "text": "List the functional verification coverage holes in spi_host.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 224,
+    "text": "Compare timing for endpoint uart_core_u/reg_18/D in uart_core between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 225,
+    "text": "What is the code coverage hit count for rtl/i2c_target_top.sv line 263 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 226,
+    "text": "List the lint findings in uart_core with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 227,
+    "text": "How much slack does pin spi_host_u/reg_nonexistent/D have in spi_host?",
+    "correct": false,
+    "cite_correct": null
+  },
+  {
+    "qid": 228,
+    "text": "Diff changelists uart000e and uart000d in uart_core.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 229,
+    "text": "Summarize lint findings by rule for aes_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 230,
+    "text": "How much timing margin does endpoint i2c_target_u/reg_22/D have in i2c_target?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 231,
+    "text": "Why was lint finding i2c_target_lint_012 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 232,
+    "text": "Could you tell me the critical path detail for i2c_target_path_999 in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 233,
+    "text": "Why was lint finding flash_ctrl_lint_005 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 234,
+    "text": "Why was lint finding gpio_ctrl_lint_019 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 235,
+    "text": "List the lint findings in timer_core with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 236,
+    "text": "Could you tell me the commit history for rtl/gpio_ctrl_datapath.sv in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 237,
+    "text": "Which bins are below coverage goal in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 238,
+    "text": "Compare timing for pin flash_ctrl_u/reg_14/D in flash_ctrl between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 239,
+    "text": "What is the critical path detail for flash_ctrl_path_015 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 240,
+    "text": "Which changelists in flash_ctrl mention fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 241,
+    "text": "What is the detail for lint finding i2c_target_lint_015?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 242,
+    "text": "How much slack does endpoint spi_host_u/reg_5/D have in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 243,
+    "text": "What is the critical path detail for aes_core_path_999 in aes_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 244,
+    "text": "Who most recently modified rtl/gpio_ctrl_datapath.sv in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 245,
+    "text": "List the lint findings in spi_host with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 246,
+    "text": "Why was lint finding timer_core_lint_004 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 247,
+    "text": "What is the worst-case slack value for uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 248,
+    "text": "Show the functional coverage group flash_ctrl_cg_2 in flash_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 249,
+    "text": "Why was lint finding otp_ctrl_lint_005 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 250,
+    "text": "Who last touched rtl/i2c_target_fsm.sv in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 251,
+    "text": "Could you tell me the code coverage hit count for rtl/aes_core_datapath.sv line 198 in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 252,
+    "text": "List the functional coverage holes in gpio_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 253,
+    "text": "Who most recently modified rtl/flash_ctrl_top.sv in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 254,
+    "text": "Could you tell me the detail for lint finding uart_core_lint_020?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 255,
+    "text": "Diff commits flas0016 and flas0017 in flash_ctrl.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 256,
+    "text": "Who last touched rtl/otp_ctrl_fsm.sv in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 257,
+    "text": "Show the functional coverage group flash_ctrl_cg_1 in flash_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 258,
+    "text": "Could you tell me the detail for lint finding otp_ctrl_lint_010?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 259,
+    "text": "Which changelists in uart_core mention fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 260,
+    "text": "Show me the lint findings in uart_core with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 261,
+    "text": "Which bins are below coverage goal in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 262,
+    "text": "Which commits in i2c_target mention counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 263,
+    "text": "What is the coverage summary for otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 264,
+    "text": "Could you tell me the detail for lint finding spi_host_lint_004?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 265,
+    "text": "List the functional coverage holes in i2c_target.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 266,
+    "text": "Who last touched rtl/uart_core_top.sv in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 267,
+    "text": "Show the functional verification coverage group i2c_target_cg_2 in i2c_target.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 268,
+    "text": "What is the worst-case timing margin value for spi_host?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 269,
+    "text": "How much slack does endpoint flash_ctrl_u/reg_3/D have in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 270,
+    "text": "What is the verification coverage summary for timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 271,
+    "text": "What is the critical path detail for i2c_target_path_031 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 272,
+    "text": "Which commits in i2c_target mention fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 273,
+    "text": "What is the critical path detail for spi_host_path_010 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 274,
+    "text": "Compare timing for endpoint spi_host_u/reg_31/D in spi_host between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 275,
+    "text": "What is the critical path detail for gpio_ctrl_path_004 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 276,
+    "text": "Which bins are below coverage goal in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 277,
+    "text": "Show the functional coverage group timer_core_cg_4 in timer_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 278,
+    "text": "List the timing violations in gpio_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 279,
+    "text": "Which commits in gpio_ctrl reference fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 280,
+    "text": "What is the critical path detail for timer_core_path_027 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 281,
+    "text": "Could you tell me commit timer_core_nonexistent_commit in timer_core?",
+    "correct": false,
+    "cite_correct": null
+  },
+  {
+    "qid": 282,
+    "text": "Summarize lint findings by rule for uart_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 283,
+    "text": "What is changelist i2c_0002 in i2c_target?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 284,
+    "text": "What is the critical path detail for aes_core_path_002 in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 285,
+    "text": "What is the worst-case slack value for gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 286,
+    "text": "What is commit otp_0010 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 287,
+    "text": "Why was lint finding spi_host_lint_008 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 288,
+    "text": "What is commit flas0014 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 289,
+    "text": "Show the functional verification coverage group timer_core_cg_2 in timer_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 290,
+    "text": "List the functional coverage holes in gpio_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 291,
+    "text": "Who last touched rtl/i2c_target_regs.sv in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 292,
+    "text": "Why was lint finding gpio_ctrl_lint_018 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 293,
+    "text": "How much slack does endpoint uart_core_u/reg_27/D have in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 294,
+    "text": "List the functional coverage holes in aes_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 295,
+    "text": "Could you tell me the detail for lint finding timer_core_lint_008?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 296,
+    "text": "List the lint findings in uart_core with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 297,
+    "text": "What is the critical path detail for gpio_ctrl_path_999 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 298,
+    "text": "What is the commit history for rtl/flash_ctrl_regs.sv in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 299,
+    "text": "How much slack does endpoint gpio_ctrl_u/reg_38/D have in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 300,
+    "text": "Why was lint finding flash_ctrl_lint_003 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 301,
+    "text": "How much slack does endpoint flash_ctrl_u/reg_21/D have in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 302,
+    "text": "What is commit i2c_0005 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 303,
+    "text": "What is commit aes_0018 in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 304,
+    "text": "What is the commit history for rtl/uart_core_regs.sv in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 305,
+    "text": "List the lint findings in uart_core with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 306,
+    "text": "Which commits in timer_core mention fifo?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 307,
+    "text": "What is the code coverage hit count for rtl/otp_ctrl_top.sv line 242 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 308,
+    "text": "How much slack does endpoint i2c_target_u/reg_nonexistent/D have in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 309,
+    "text": "What is the worst-case slack value for flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 310,
+    "text": "Which commits in aes_core mention counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 311,
+    "text": "List the timing violations in aes_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 312,
+    "text": "What is the coverage summary for gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 313,
+    "text": "Which bins are below verification coverage goal in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 314,
+    "text": "List the functional coverage holes in timer_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 315,
+    "text": "What is the detail for lint finding gpio_ctrl_lint_011?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 316,
+    "text": "How much slack does endpoint gpio_ctrl_u/reg_31/D have in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 317,
+    "text": "How much timing margin does endpoint gpio_ctrl_u/reg_nonexistent/D have in gpio_ctrl?",
+    "correct": false,
+    "cite_correct": null
+  },
+  {
+    "qid": 318,
+    "text": "How much slack does endpoint i2c_target_u/reg_27/D have in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 319,
+    "text": "Who last touched rtl/otp_ctrl_regs.sv in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 320,
+    "text": "Which changelists in timer_core mention counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 321,
+    "text": "Show me the timing violations in spi_host.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 322,
+    "text": "Show the functional coverage group uart_core_cg_6 in uart_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 323,
+    "text": "What is the critical path detail for i2c_target_path_028 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 324,
+    "text": "What is commit uart000d in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 325,
+    "text": "Could you tell me the worst slack endpoint in aes_core's timing report?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 326,
+    "text": "How much slack does pin uart_core_u/reg_38/D have in uart_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 327,
+    "text": "What is the changelist history for rtl/uart_core_datapath.sv in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 328,
+    "text": "What is commit flash_ctrl_nonexistent_commit in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 329,
+    "text": "What is the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 330,
+    "text": "Diff commits aes_0000 and aes_000e in aes_core.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 331,
+    "text": "What is the critical path detail for flash_ctrl_path_999 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 332,
+    "text": "Diff commits flas000c and flas0002 in flash_ctrl.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 333,
+    "text": "Summarize lint findings by rule for flash_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 334,
+    "text": "What is the critical path detail for gpio_ctrl_path_000 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 335,
+    "text": "Could you tell me the commit history for rtl/spi_host_top.sv in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 336,
+    "text": "What is commit flas000c in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 337,
+    "text": "What is the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 338,
+    "text": "List the lint findings in timer_core with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 339,
+    "text": "What is the critical path detail for gpio_ctrl_path_002 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 340,
+    "text": "What is the commit history for rtl/spi_host_fsm.sv in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 341,
+    "text": "Diff commits i2c_0012 and i2c_000a in i2c_target.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 342,
+    "text": "What is the critical path detail for aes_core_path_012 in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 343,
+    "text": "What is the worst slack endpoint in uart_core's timing report?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 344,
+    "text": "What is the code coverage hit count for rtl/i2c_target_nonexistent.sv line 9999 in i2c_target?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 345,
+    "text": "Show me the lint findings in spi_host with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 346,
+    "text": "Show me the lint findings in i2c_target with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 347,
+    "text": "Why was lint finding uart_core_lint_016 waived?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 348,
+    "text": "What is the worst-case slack value for timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 349,
+    "text": "What is the critical path detail for otp_ctrl_path_035 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 350,
+    "text": "Compare timing for pin uart_core_u/reg_36/D in uart_core between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 351,
+    "text": "What is commit time000e in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 352,
+    "text": "Compare timing for endpoint gpio_ctrl_u/reg_18/D in gpio_ctrl between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 353,
+    "text": "List the lint findings in timer_core with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 354,
+    "text": "Could you tell me the detail for lint finding nonexistent_finding_999?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 355,
+    "text": "What is the critical path detail for flash_ctrl_path_000 in flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 356,
+    "text": "List the lint findings in otp_ctrl with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 357,
+    "text": "List the timing violations in flash_ctrl.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 358,
+    "text": "Compare timing for pin timer_core_u/reg_13/D in timer_core between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 359,
+    "text": "What is the detail for lint finding spi_host_lint_007?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 360,
+    "text": "How much slack does pin gpio_ctrl_u/reg_21/D have in gpio_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 361,
+    "text": "Could you tell me the detail for lint finding flash_ctrl_lint_018?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 362,
+    "text": "What is the critical path detail for spi_host_path_999 in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 363,
+    "text": "How much slack does endpoint spi_host_u/reg_19/D have in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 364,
+    "text": "What is changelist spi_0004 in spi_host?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 365,
+    "text": "How much slack does pin aes_core_u/reg_nonexistent/D have in aes_core?",
+    "correct": false,
+    "cite_correct": null
+  },
+  {
+    "qid": 366,
+    "text": "What is commit otp_0006 in otp_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 367,
+    "text": "What is the commit history for rtl/otp_ctrl_datapath.sv in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 368,
+    "text": "What is the critical path detail for aes_core_path_025 in aes_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 369,
+    "text": "What is the critical path detail for i2c_target_path_002 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 370,
+    "text": "Show the functional coverage group aes_core_cg_1 in aes_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 371,
+    "text": "Who most recently modified rtl/spi_host_regs.sv in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 372,
+    "text": "Which commits in otp_ctrl mention counter?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 373,
+    "text": "Diff changelists time0017 and time0014 in timer_core.",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 374,
+    "text": "Could you tell me the detail for lint finding timer_core_lint_018?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 375,
+    "text": "Could you tell me the critical path detail for i2c_target_path_029 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 376,
+    "text": "Compare timing for endpoint timer_core_u/reg_19/D in timer_core between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 377,
+    "text": "List the lint findings in gpio_ctrl with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 378,
+    "text": "How much slack does endpoint i2c_target_u/reg_42/D have in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 379,
+    "text": "What is the critical path detail for spi_host_path_009 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 380,
+    "text": "List the lint findings in gpio_ctrl with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 381,
+    "text": "What is the changelist history for rtl/flash_ctrl_fsm.sv in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 382,
+    "text": "What is the code coverage hit count for rtl/i2c_target_fsm.sv line 352 in i2c_target?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 383,
+    "text": "Could you tell me commit uart000c in uart_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 384,
+    "text": "What is the critical path detail for spi_host_path_029 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 385,
+    "text": "Show me the functional coverage holes in uart_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 386,
+    "text": "Show me the timing violations in timer_core.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 387,
+    "text": "Compare timing for endpoint gpio_ctrl_u/reg_35/D in gpio_ctrl between tt_0p80v_125c and ff_0p88v_m40c.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 388,
+    "text": "What is the worst slack endpoint in timer_core's timing report?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 389,
+    "text": "Why was lint finding gpio_ctrl_lint_021 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 390,
+    "text": "Why was lint finding gpio_ctrl_lint_006 waived?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 391,
+    "text": "Which changelists in uart_core mention onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 392,
+    "text": "What is the code coverage hit count for rtl/spi_host_fsm.sv line 20 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 393,
+    "text": "Could you tell me commit aes_0015 in aes_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 394,
+    "text": "How much slack does endpoint spi_host_u/reg_17/D have in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 395,
+    "text": "What is the coverage summary for flash_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 396,
+    "text": "What is the detail for lint finding otp_ctrl_lint_019?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 397,
+    "text": "Which bins are below verification coverage goal in uart_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 398,
+    "text": "How much timing margin does endpoint timer_core_u/reg_nonexistent/D have in timer_core?",
+    "correct": false,
+    "cite_correct": null
+  },
+  {
+    "qid": 399,
+    "text": "What is the detail for lint finding uart_core_lint_009?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 400,
+    "text": "Which commits in gpio_ctrl reference onehot?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 401,
+    "text": "Which bins are below coverage goal in timer_core?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 402,
+    "text": "Could you tell me the critical path detail for spi_host_path_016 in spi_host?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 403,
+    "text": "What is changelist aes_0011 in aes_core?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 404,
+    "text": "Who most recently modified rtl/flash_ctrl_top.sv in flash_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 405,
+    "text": "How much slack does endpoint otp_ctrl_u/reg_nonexistent/D have in otp_ctrl?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 406,
+    "text": "List the lint findings in flash_ctrl with severity WARNING.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 407,
+    "text": "What is the code coverage hit count for rtl/timer_core_regs.sv line 130 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 408,
+    "text": "What is changelist otp_0009 in otp_ctrl?",
+    "correct": false,
+    "cite_correct": false
+  },
+  {
+    "qid": 409,
+    "text": "List the lint findings in flash_ctrl with severity ERROR.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 410,
+    "text": "What is commit uart0004 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 411,
+    "text": "What is the code coverage hit count for rtl/uart_core_datapath.sv line 370 in uart_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 412,
+    "text": "Could you tell me the critical path detail for timer_core_path_006 in timer_core?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 413,
+    "text": "Summarize lint findings by rule for i2c_target.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 414,
+    "text": "Could you tell me commit uart_core_nonexistent_commit in uart_core?",
+    "correct": false,
+    "cite_correct": null
+  },
+  {
+    "qid": 415,
+    "text": "Diff commits uart0002 and uart0007 in uart_core.",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 416,
+    "text": "What is commit spi_host_nonexistent_commit in spi_host?",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 417,
+    "text": "Could you tell me the worst slack endpoint in i2c_target's timing report?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 418,
+    "text": "Show me the lint findings in aes_core with severity INFO.",
+    "correct": true,
+    "cite_correct": null
+  },
+  {
+    "qid": 419,
+    "text": "What is the detail for lint finding uart_core_lint_003?",
+    "correct": true,
+    "cite_correct": true
+  },
+  {
+    "qid": 420,
+    "text": "What is the code coverage hit count for rtl/gpio_ctrl_top.sv line 253 in gpio_ctrl?",
+    "correct": true,
+    "cite_correct": true
+  }
+]

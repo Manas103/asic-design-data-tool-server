@@ -1,0 +1,22 @@
+# Lint findings for timer_core
+INFO timer_core_lint_000 LATCH_INFERRED rtl/timer_core_datapath.sv:352 LATCH_INFERRED at rtl/timer_core_datapath.sv:352
+INFO timer_core_lint_001 MISSING_DEFAULT_CASE rtl/timer_core_regs.sv:251 MISSING_DEFAULT_CASE at rtl/timer_core_regs.sv:251
+INFO timer_core_lint_002 COMBO_LOOP_RISK rtl/timer_core_top.sv:31 COMBO_LOOP_RISK at rtl/timer_core_top.sv:31
+INFO timer_core_lint_003 LATCH_INFERRED rtl/timer_core_top.sv:161 LATCH_INFERRED at rtl/timer_core_top.sv:161
+ERROR timer_core_lint_004 UNUSED_SIGNAL rtl/timer_core_regs.sv:297 UNUSED_SIGNAL at rtl/timer_core_regs.sv:297
+WARNING timer_core_lint_005 COMBO_LOOP_RISK rtl/timer_core_fsm.sv:283 COMBO_LOOP_RISK at rtl/timer_core_fsm.sv:283
+INFO timer_core_lint_006 MISSING_DEFAULT_CASE rtl/timer_core_top.sv:138 MISSING_DEFAULT_CASE at rtl/timer_core_top.sv:138
+INFO timer_core_lint_007 MULTI_DRIVEN_NET rtl/timer_core_fsm.sv:22 MULTI_DRIVEN_NET at rtl/timer_core_fsm.sv:22
+ERROR timer_core_lint_008 LATCH_INFERRED rtl/timer_core_top.sv:31 LATCH_INFERRED at rtl/timer_core_top.sv:31 WAIVED=false positive, confirmed by design review
+WARNING timer_core_lint_009 MISSING_DEFAULT_CASE rtl/timer_core_fsm.sv:334 MISSING_DEFAULT_CASE at rtl/timer_core_fsm.sv:334
+INFO timer_core_lint_010 COMBO_LOOP_RISK rtl/timer_core_top.sv:248 COMBO_LOOP_RISK at rtl/timer_core_top.sv:248
+ERROR timer_core_lint_011 WIDTH_MISMATCH rtl/timer_core_top.sv:259 WIDTH_MISMATCH at rtl/timer_core_top.sv:259
+WARNING timer_core_lint_012 WIDTH_MISMATCH rtl/timer_core_top.sv:326 WIDTH_MISMATCH at rtl/timer_core_top.sv:326
+ERROR timer_core_lint_013 LATCH_INFERRED rtl/timer_core_top.sv:391 LATCH_INFERRED at rtl/timer_core_top.sv:391
+WARNING timer_core_lint_014 LATCH_INFERRED rtl/timer_core_datapath.sv:110 LATCH_INFERRED at rtl/timer_core_datapath.sv:110
+INFO timer_core_lint_015 LATCH_INFERRED rtl/timer_core_top.sv:117 LATCH_INFERRED at rtl/timer_core_top.sv:117
+ERROR timer_core_lint_016 UNUSED_SIGNAL rtl/timer_core_fsm.sv:260 UNUSED_SIGNAL at rtl/timer_core_fsm.sv:260
+ERROR timer_core_lint_017 MULTI_DRIVEN_NET rtl/timer_core_top.sv:22 MULTI_DRIVEN_NET at rtl/timer_core_top.sv:22
+WARNING timer_core_lint_018 LATCH_INFERRED rtl/timer_core_fsm.sv:205 LATCH_INFERRED at rtl/timer_core_fsm.sv:205
+WARNING timer_core_lint_019 LATCH_INFERRED rtl/timer_core_regs.sv:384 LATCH_INFERRED at rtl/timer_core_regs.sv:384
+WARNING timer_core_lint_020 WIDTH_MISMATCH rtl/timer_core_fsm.sv:25 WIDTH_MISMATCH at rtl/timer_core_fsm.sv:25

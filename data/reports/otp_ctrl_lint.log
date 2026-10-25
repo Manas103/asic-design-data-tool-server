@@ -1,0 +1,23 @@
+# Lint findings for otp_ctrl
+INFO otp_ctrl_lint_000 WIDTH_MISMATCH rtl/otp_ctrl_top.sv:202 WIDTH_MISMATCH at rtl/otp_ctrl_top.sv:202 WAIVED=false positive, confirmed by design review
+INFO otp_ctrl_lint_001 UNUSED_SIGNAL rtl/otp_ctrl_fsm.sv:243 UNUSED_SIGNAL at rtl/otp_ctrl_fsm.sv:243
+ERROR otp_ctrl_lint_002 COMBO_LOOP_RISK rtl/otp_ctrl_datapath.sv:211 COMBO_LOOP_RISK at rtl/otp_ctrl_datapath.sv:211
+INFO otp_ctrl_lint_003 UNUSED_SIGNAL rtl/otp_ctrl_datapath.sv:190 UNUSED_SIGNAL at rtl/otp_ctrl_datapath.sv:190
+WARNING otp_ctrl_lint_004 COMBO_LOOP_RISK rtl/otp_ctrl_regs.sv:53 COMBO_LOOP_RISK at rtl/otp_ctrl_regs.sv:53
+INFO otp_ctrl_lint_005 COMBO_LOOP_RISK rtl/otp_ctrl_top.sv:258 COMBO_LOOP_RISK at rtl/otp_ctrl_top.sv:258
+WARNING otp_ctrl_lint_006 MULTI_DRIVEN_NET rtl/otp_ctrl_fsm.sv:394 MULTI_DRIVEN_NET at rtl/otp_ctrl_fsm.sv:394
+ERROR otp_ctrl_lint_007 WIDTH_MISMATCH rtl/otp_ctrl_regs.sv:226 WIDTH_MISMATCH at rtl/otp_ctrl_regs.sv:226
+ERROR otp_ctrl_lint_008 WIDTH_MISMATCH rtl/otp_ctrl_fsm.sv:361 WIDTH_MISMATCH at rtl/otp_ctrl_fsm.sv:361
+ERROR otp_ctrl_lint_009 UNUSED_SIGNAL rtl/otp_ctrl_regs.sv:323 UNUSED_SIGNAL at rtl/otp_ctrl_regs.sv:323
+ERROR otp_ctrl_lint_010 LATCH_INFERRED rtl/otp_ctrl_regs.sv:358 LATCH_INFERRED at rtl/otp_ctrl_regs.sv:358
+WARNING otp_ctrl_lint_011 WIDTH_MISMATCH rtl/otp_ctrl_datapath.sv:27 WIDTH_MISMATCH at rtl/otp_ctrl_datapath.sv:27 WAIVED=false positive, confirmed by design review
+INFO otp_ctrl_lint_012 MISSING_DEFAULT_CASE rtl/otp_ctrl_datapath.sv:198 MISSING_DEFAULT_CASE at rtl/otp_ctrl_datapath.sv:198 WAIVED=false positive, confirmed by design review
+INFO otp_ctrl_lint_013 MISSING_DEFAULT_CASE rtl/otp_ctrl_top.sv:277 MISSING_DEFAULT_CASE at rtl/otp_ctrl_top.sv:277
+INFO otp_ctrl_lint_014 UNUSED_SIGNAL rtl/otp_ctrl_regs.sv:315 UNUSED_SIGNAL at rtl/otp_ctrl_regs.sv:315
+WARNING otp_ctrl_lint_015 MULTI_DRIVEN_NET rtl/otp_ctrl_datapath.sv:321 MULTI_DRIVEN_NET at rtl/otp_ctrl_datapath.sv:321
+WARNING otp_ctrl_lint_016 WIDTH_MISMATCH rtl/otp_ctrl_datapath.sv:47 WIDTH_MISMATCH at rtl/otp_ctrl_datapath.sv:47 WAIVED=false positive, confirmed by design review
+WARNING otp_ctrl_lint_017 WIDTH_MISMATCH rtl/otp_ctrl_regs.sv:259 WIDTH_MISMATCH at rtl/otp_ctrl_regs.sv:259 WAIVED=false positive, confirmed by design review
+ERROR otp_ctrl_lint_018 WIDTH_MISMATCH rtl/otp_ctrl_top.sv:316 WIDTH_MISMATCH at rtl/otp_ctrl_top.sv:316 WAIVED=false positive, confirmed by design review
+ERROR otp_ctrl_lint_019 LATCH_INFERRED rtl/otp_ctrl_datapath.sv:392 LATCH_INFERRED at rtl/otp_ctrl_datapath.sv:392 WAIVED=false positive, confirmed by design review
+WARNING otp_ctrl_lint_020 MISSING_DEFAULT_CASE rtl/otp_ctrl_regs.sv:364 MISSING_DEFAULT_CASE at rtl/otp_ctrl_regs.sv:364 WAIVED=false positive, confirmed by design review
+INFO otp_ctrl_lint_021 UNUSED_SIGNAL rtl/otp_ctrl_top.sv:368 UNUSED_SIGNAL at rtl/otp_ctrl_top.sv:368 WAIVED=false positive, confirmed by design review

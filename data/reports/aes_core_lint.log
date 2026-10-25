@@ -1,0 +1,31 @@
+# Lint findings for aes_core
+WARNING aes_core_lint_000 UNUSED_SIGNAL rtl/aes_core_top.sv:392 UNUSED_SIGNAL at rtl/aes_core_top.sv:392
+ERROR aes_core_lint_001 WIDTH_MISMATCH rtl/aes_core_regs.sv:316 WIDTH_MISMATCH at rtl/aes_core_regs.sv:316
+ERROR aes_core_lint_002 WIDTH_MISMATCH rtl/aes_core_fsm.sv:28 WIDTH_MISMATCH at rtl/aes_core_fsm.sv:28 WAIVED=false positive, confirmed by design review
+ERROR aes_core_lint_003 MULTI_DRIVEN_NET rtl/aes_core_datapath.sv:195 MULTI_DRIVEN_NET at rtl/aes_core_datapath.sv:195 WAIVED=false positive, confirmed by design review
+INFO aes_core_lint_004 LATCH_INFERRED rtl/aes_core_datapath.sv:219 LATCH_INFERRED at rtl/aes_core_datapath.sv:219 WAIVED=false positive, confirmed by design review
+ERROR aes_core_lint_005 MISSING_DEFAULT_CASE rtl/aes_core_regs.sv:166 MISSING_DEFAULT_CASE at rtl/aes_core_regs.sv:166
+ERROR aes_core_lint_006 WIDTH_MISMATCH rtl/aes_core_fsm.sv:378 WIDTH_MISMATCH at rtl/aes_core_fsm.sv:378
+ERROR aes_core_lint_007 MULTI_DRIVEN_NET rtl/aes_core_datapath.sv:286 MULTI_DRIVEN_NET at rtl/aes_core_datapath.sv:286 WAIVED=false positive, confirmed by design review
+ERROR aes_core_lint_008 WIDTH_MISMATCH rtl/aes_core_top.sv:339 WIDTH_MISMATCH at rtl/aes_core_top.sv:339
+WARNING aes_core_lint_009 WIDTH_MISMATCH rtl/aes_core_datapath.sv:247 WIDTH_MISMATCH at rtl/aes_core_datapath.sv:247
+INFO aes_core_lint_010 COMBO_LOOP_RISK rtl/aes_core_regs.sv:305 COMBO_LOOP_RISK at rtl/aes_core_regs.sv:305
+INFO aes_core_lint_011 MULTI_DRIVEN_NET rtl/aes_core_datapath.sv:223 MULTI_DRIVEN_NET at rtl/aes_core_datapath.sv:223
+INFO aes_core_lint_012 WIDTH_MISMATCH rtl/aes_core_top.sv:118 WIDTH_MISMATCH at rtl/aes_core_top.sv:118
+WARNING aes_core_lint_013 LATCH_INFERRED rtl/aes_core_datapath.sv:367 LATCH_INFERRED at rtl/aes_core_datapath.sv:367
+WARNING aes_core_lint_014 LATCH_INFERRED rtl/aes_core_top.sv:94 LATCH_INFERRED at rtl/aes_core_top.sv:94 WAIVED=false positive, confirmed by design review
+ERROR aes_core_lint_015 COMBO_LOOP_RISK rtl/aes_core_fsm.sv:181 COMBO_LOOP_RISK at rtl/aes_core_fsm.sv:181 WAIVED=false positive, confirmed by design review
+INFO aes_core_lint_016 LATCH_INFERRED rtl/aes_core_regs.sv:177 LATCH_INFERRED at rtl/aes_core_regs.sv:177
+WARNING aes_core_lint_017 UNUSED_SIGNAL rtl/aes_core_fsm.sv:86 UNUSED_SIGNAL at rtl/aes_core_fsm.sv:86
+WARNING aes_core_lint_018 WIDTH_MISMATCH rtl/aes_core_top.sv:275 WIDTH_MISMATCH at rtl/aes_core_top.sv:275
+WARNING aes_core_lint_019 WIDTH_MISMATCH rtl/aes_core_regs.sv:215 WIDTH_MISMATCH at rtl/aes_core_regs.sv:215
+INFO aes_core_lint_020 MULTI_DRIVEN_NET rtl/aes_core_top.sv:200 MULTI_DRIVEN_NET at rtl/aes_core_top.sv:200
+ERROR aes_core_lint_021 WIDTH_MISMATCH rtl/aes_core_datapath.sv:82 WIDTH_MISMATCH at rtl/aes_core_datapath.sv:82
+WARNING aes_core_lint_022 MULTI_DRIVEN_NET rtl/aes_core_fsm.sv:312 MULTI_DRIVEN_NET at rtl/aes_core_fsm.sv:312
+ERROR aes_core_lint_023 MULTI_DRIVEN_NET rtl/aes_core_regs.sv:186 MULTI_DRIVEN_NET at rtl/aes_core_regs.sv:186 WAIVED=false positive, confirmed by design review
+ERROR aes_core_lint_024 WIDTH_MISMATCH rtl/aes_core_top.sv:75 WIDTH_MISMATCH at rtl/aes_core_top.sv:75
+WARNING aes_core_lint_025 UNUSED_SIGNAL rtl/aes_core_regs.sv:376 UNUSED_SIGNAL at rtl/aes_core_regs.sv:376
+WARNING aes_core_lint_026 LATCH_INFERRED rtl/aes_core_top.sv:284 LATCH_INFERRED at rtl/aes_core_top.sv:284
+INFO aes_core_lint_027 MISSING_DEFAULT_CASE rtl/aes_core_fsm.sv:356 MISSING_DEFAULT_CASE at rtl/aes_core_fsm.sv:356
+INFO aes_core_lint_028 UNUSED_SIGNAL rtl/aes_core_datapath.sv:201 UNUSED_SIGNAL at rtl/aes_core_datapath.sv:201 WAIVED=false positive, confirmed by design review
+WARNING aes_core_lint_029 COMBO_LOOP_RISK rtl/aes_core_top.sv:359 COMBO_LOOP_RISK at rtl/aes_core_top.sv:359
